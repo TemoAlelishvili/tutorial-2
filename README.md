@@ -1,2 +1,4 @@
-# tutorial-2
+ tutorial-2
 this is my repositiry
+
+mere atvirtva
